@@ -7,8 +7,5 @@
     "background": {
         "scripts": ["background.js"]
     },
-    "icons": {
-        "16": "icons/logo_16x16.png"
-    },
     "manifest_version": 2
 }
