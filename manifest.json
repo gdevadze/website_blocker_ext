@@ -1,0 +1,14 @@
+{
+    "name": "Website Blocker",
+    "author": "Gio Devadze",
+    "version": "1.0",
+    "description": "Website Blocker",
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "icons": {
+        "16": "icons/logo_16x16.png"
+    },
+    "manifest_version": 2
+}
